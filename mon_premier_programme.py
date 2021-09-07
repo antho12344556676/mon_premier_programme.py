@@ -1,1 +1,1 @@
-Bonjour le Monde !
+print "Hello World !" 
